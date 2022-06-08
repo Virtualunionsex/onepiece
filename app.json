@@ -2,7 +2,7 @@
     "name": "Ayiin Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/82caf7847b76cfbcf855a.jpg",
-    <a href="https://heroku.com/deploy?template=https://github.com/Virtualunionsex/Kingmalik_MusicBot"><img 
+    <"https://heroku.com/deploy?template=https://github.com/Virtualunionsex/Kingmalik_MusicBot"
     "keywords": [
     "python3",
     "telegram",
