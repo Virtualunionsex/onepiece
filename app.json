@@ -13,7 +13,7 @@
     "AyiinMusicBot",
     "telegram-bot",
     "pyrogram"
-    ],
+    
     "env": {
       "API_ID": {
         "description": "Dapatkan API_ID ini dari https://t.me/AyiinXdSupport Ketik #api Atau Ke https://my.telegram.org",
