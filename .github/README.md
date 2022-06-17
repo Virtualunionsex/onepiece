@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/82caf7847b76cfbcf855a.jpg" align="right" width="200" height="200"/>
+<img src="[https://telegra.ph/file/82caf7847b76cfbcf855a.jpg](https://telegra.ph/file/47d97d66396dca5c54d32.jpg)" align="right" width="200" height="200"/>
 
 # Malik Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="LICENSE">
 
