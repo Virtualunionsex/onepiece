@@ -1,7 +1,7 @@
 {
     "name": "Ayiin Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/82caf7847b76cfbcf855a.jpg",
+    "logo": "https://telegra.ph/file/47d97d66396dca5c54d32.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -13,12 +13,12 @@
     ],
     "env": {
       "API_ID": {
-        "description": "Dapatkan API_ID ini dari https://t.me/AyiinXdSupport Ketik #api Atau Ke https://my.telegram.org",
+        "description": "Dapatkan API_ID dengan cara  Ketik #api Atau Ke https://my.telegram.org",
         "value": "12599108",
         "required": true
       },
       "API_HASH": {
-        "description": "Dapatkan API_HASH ini dari https://t.me/AyiinXdSupport Ketik #api Atau Ke https://my.telegram.org",
+        "description": "Dapatkan API_HASH ini dengan cara Ketik #api Atau Ke https://my.telegram.org",
         "value": "e3f34d6d77dcac41e6766c6d75db4011",
         "required": true
       },
@@ -39,7 +39,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "Nama untuk Bot Musik Anda. Tolong jangan gunakan karakter ascii",
-        "value": "    Robot X Music Yins",
+        "value": "    Robot Chopper",
         "required": true
       },
       "OWNER_ID": {
@@ -77,7 +77,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "Jika Anda tidak tahu ini, Biarkan apa adanya",
-        "value": "https://github.com/YinsXd/AyiinMusicBot",
+        "value": "https://github.com/Virtualunionsex/Kingmalik_sicBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
