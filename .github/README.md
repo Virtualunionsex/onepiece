@@ -1,4 +1,4 @@
-<img src="[https://telegra.ph/file/82caf7847b76cfbcf855a.jpg](https://telegra.ph/file/47d97d66396dca5c54d32.jpg)" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/47d97d66396dca5c54d32.jpg" align="right" width="200" height="200"/>
 
 # Malik Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="LICENSE">
 
@@ -6,7 +6,7 @@
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
-* Attractive thumbnails, fonts and images,  making experience more user-friendly and interactive.
+* Attractive thumbnails, fonts and images,  making experience more user-friendly and nteractive.
 * Loop, Shuffle, Specific Skip, Playlists etc support
 * Global, Users, Chats Top 10 played tracks stats
 * Multi-Language support
