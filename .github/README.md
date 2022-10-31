@@ -99,15 +99,15 @@ For more information on the technologies that power the Ayiin Music Bot, check o
 
 
 ```console
-ayiin@MacBook~ $ git clone https://github.com/virtualunionsex/KingMalik_MusicBot
-ayiin@MacBook~ $ cd KingMalik_MusicBot
-ayiin@MacBook~ $ sudo bash setup
+KingMalik@MacBook~ $ git clone https://github.com/virtualunionsex/KingMalik_MusicBot
+KingMalik@MacBook~ $ cd KingMalik_MusicBot
+KingMalik@MacBook~ $ sudo bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
 > Please input your vars correctly.
 
 ```console
-ayiin@MacBook~ $ bash start
+KingMalik@MacBook~ $ bash start
 ```
 
 > Not Getting VPS Method? [Watch Tutorial](https://t.me/TheYukki/2275)
@@ -122,13 +122,13 @@ Reach out to the maintainer at one of the following places:
 
 - [GitHub Issues](https://github.com/AyiinXd/AyiinMusicBot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
 - Contact options listed on [this GitHub profile](https://github.com/AyiinXd)
-- [Telegram Support](https://t.me/AyiinXdSupport)
+- [Telegram Support](https://t.me/Radiosimpulyangrapuh)
 
 ## 🎗 Project assistance
 
 If you want to say **thank you** or/and support active development of AyiinMusicBot:
 
-- Add a [GitHub Star](https://github.com/AyiinXd/AyiinMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/AyiinXd/KingMalik_MusicBot) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
