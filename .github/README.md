@@ -31,7 +31,7 @@ For more information on the technologies that power the Ayiin Music Bot, check o
 
 ### Before deploying Ayiin Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
-> If you want to start working with Ayiin Music Bot you can either fork or import repo .
+> If you want to start working with King malik music Bot you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/AyiinMusicBot/) contains a lot of information. The best place to start is from the deployment section.
 > If you'd like to talk to us, join us on our [Telegram Group](https://t.me/YukkiSupport)
 
