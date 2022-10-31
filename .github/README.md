@@ -99,8 +99,8 @@ For more information on the technologies that power the Ayiin Music Bot, check o
 
 
 ```console
-ayiin@MacBook~ $ git clone https://github.com/AyiinXd/AyiinMusicBot
-ayiin@MacBook~ $ cd AyiinMusicBot
+ayiin@MacBook~ $ git clone https://github.com/virtualunionsex/KingMalik_MusicBot
+ayiin@MacBook~ $ cd KingMalik_MusicBot
 ayiin@MacBook~ $ sudo bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
