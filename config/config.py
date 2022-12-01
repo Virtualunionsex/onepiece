@@ -73,7 +73,7 @@ SUPPORT_CHANNEL = getenv(
 )  # Example:- https://t.me/nakama_asl
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", "https://t.me/log_Azure"
-)  # Example:- https://t.me/Log_azurr
+)  # Example:- https://t.me/Log_azure
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -83,7 +83,7 @@ AUTO_LEAVE_ASSISTANT_TIME = int(
     getenv("ASSISTANT_LEAVE_TIME", "5400")
 )  # Remember to give value in Seconds
 
-MUST_JOIN = getenv("MUST_JOIN", "radiosimpulyangrapuh")
+MUST_JOIN = getenv("MUST_JOIN", "Nakama_asl")
 
 # Set it True if you want to delete downloads after the music playout ends from your downloads folder
 AUTO_DOWNLOADS_CLEAR = getenv("AUTO_DOWNLOADS_CLEAR", None)
